@@ -1,0 +1,8 @@
+path1::C:/Program Files (x86)/Measurement Computing/TracerDAQ/TracerDAQ.exe
+path2::LAB_SOFTS/Ocean Optics/SpectraSuite/spectrasuite/bin/SpectraSuite.exe
+path3::LAB_SOFTS/AvaRaman7USB2/raman_76_USB2.exe
+path4::LAB_SOFTS/Gamry Instruments/Framework 5/framework.exe
+path5::LAB_SOFTS/Gamry Instruments/Echem Analyst/Echem Analyst.exe
+path6::LAB_SOFTS/Cam/demoCam/demoCam.exe
+path7::LAB_SOFTS/Cam/CAM-MS/CAM-MS.exe
+path8::G:/SOFTWARE/SmallSoft/FastStone Image Viewer/FSViewer.exe
